@@ -1,1 +1,2 @@
 hello this os my first git repositor
+well i coud have made a new repository but instead i marged
