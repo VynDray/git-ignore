@@ -1,5 +1,1 @@
-hello this os my first git repositor
-well i coud have made a new repository but instead i marged
-hey i was actually trying to see whether the diagram , uk that git diagrame that shows the branchs, i was trying to
-see if it could change like bring up a new branch cause i made a branch earlier but the line stayed flat, so guys lets see if it could 
-change this time
+i changed everything now
